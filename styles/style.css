@@ -43,19 +43,19 @@
   height: 64px;
   width: 730px;
   font-size: 102px;
-  font-weight: 600; 
+  font-weight: 600;
   line-height: 96px;
   z-index: 5;
   align-items: center;
   margin-left: 64px;
 }
 .header__subtitle {
-  width: 388px; 
+  width: 388px;
   position: absolute;
-  bottom: 30px; 
+  bottom: 30px;
   left: 64px;
   font-size: 18px;
-  font-weight: normal; 
+  font-weight: normal;
   line-height: 25px;
   z-index: 5;
 }
