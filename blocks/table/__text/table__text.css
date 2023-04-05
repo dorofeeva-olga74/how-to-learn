@@ -1,0 +1,9 @@
+.table__text {
+  display: flex;
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 1.2;
+  flex-wrap: wrap;
+  margin-top: 20px;
+  margin-bottom: 0;
+}
