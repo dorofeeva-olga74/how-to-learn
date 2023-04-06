@@ -6,8 +6,9 @@
   margin-top: 0;
   color: white;
   text-decoration: none;
+  align-items: center;
 }
 .footer__column-link:hover {
   opacity: 0.5;
-   transition: color 2s ease-in 2s;
+  transition: color 2s ease-in 2s;
 }

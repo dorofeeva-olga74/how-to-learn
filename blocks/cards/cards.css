@@ -7,4 +7,5 @@
   justify-content:stretch;
   align-items: flex-start;
   text-align: center;
+  list-style-type: none;
 }

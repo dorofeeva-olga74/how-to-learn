@@ -1,6 +1,6 @@
 .cards__image {
   display: flex;
-  margin: 60px 40px 43px;
+  margin: 0 40px 43px;
   flex-direction:column;
   border-radius: 50%;
   width: 160px;

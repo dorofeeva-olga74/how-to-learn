@@ -5,8 +5,11 @@
   width: 240px;
   align-items: center;
   flex-basis: auto;
+  margin-top: 60px;
   margin-right: 100px;
   justify-content:center;
+  padding: 0;
+  text-align: center;
 }
 .cards__item:nth-child(3) {
   margin-right: 0;
