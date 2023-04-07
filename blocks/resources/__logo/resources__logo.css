@@ -1,8 +1,8 @@
 .resources__logo {
-  min-width: 100%;
-  min-height: 100%;
   display: block;
   pointer-events: none;
   margin: 0;
   padding: 0;
+  width: 270px;
+  height: 38px;
 }
